@@ -1,0 +1,64 @@
+*
+{
+	text-align: center;
+	font-family: "Roboto", "Garamond";
+	
+}
+body
+{
+	background-color:black;
+}
+h1 {
+	font-family:"Times New Roman";
+font-size:72px;
+color:Silver;
+background-image: url("Cell.jpg");
+font-weight: Bold;	
+text-transform:uppercase;
+
+
+}
+h2 {
+	font-size:48px;
+	color: white;
+	font-weight: Bold;
+	font-style:italic;
+	font-family:"Roboto";
+	
+	
+}
+p
+{
+	font-size:36px;
+	font-family:"Monotype Corsiva";
+	font-style:italic;
+	text-align: center-left;
+	color: white;
+	line-height:1.5em;
+	
+	
+	
+}
+h3 {
+
+background-color:CadetBlue;
+font-family:"Roboto";
+font-size:34px;
+font-weight:bold;
+}
+ul
+{
+	
+	padding: 20px 2em;
+}
+ul li {
+    list-style-type: none;
+    font-size:40px;
+    margin: 10px;
+    background-color: CadetBlue;
+	font-weight:900px;
+    text-transform:uppercase;
+}
+
+}
+}
